@@ -35,7 +35,7 @@
     "gulp-eslint": "1.1.0",
     "gulp-sourcemaps": "1.6.0",
     "gulp-util": "3.0.7",
-    "istanbul": "0.4.0",
+    "istanbul": "0.4.3",
     "load-deps": "1.0.3",
     "mocha": "3.0.0",
     "require-dir": "0.3.0",
