@@ -39,7 +39,7 @@
     "load-deps": "1.0.3",
     "mocha": "3.0.0",
     "require-dir": "0.3.0",
-    "rewire": "2.5.0",
+    "rewire": "2.5.2",
     "sinomocha": "0.2.4",
     "sinon": "1.17.2",
     "sinon-chai": "2.8.0",
